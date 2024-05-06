@@ -134,7 +134,7 @@ section {
 }
 
 .header {
-	background: #FFFFFF;
+	background: #ffffff;
 	border-bottom: 1px solid #EEE;
 	position: sticky;
 	top: 0;
@@ -292,7 +292,7 @@ section {
 }
 
 .hero {
-	background-image: yellow;
+	background-image: url('img/banniere.png');
 	color: black;
 	padding: 1rem 0 0 0;
 }
@@ -365,7 +365,7 @@ section {
 }
 
 .about {
-	background: #f7d368;
+	background: #4e77ad;
 }
 
 .img-fluid {
